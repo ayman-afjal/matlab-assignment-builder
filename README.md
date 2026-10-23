@@ -149,7 +149,7 @@ No. The license is stored separately from the app and survives updates and reins
 ## Support
 
 - Found a bug or have a suggestion? [Open an issue](../../issues).
-- Payment or key problems: email **you@example.com** or WhatsApp **+8801XXXXXXXXX**.
+- Payment or key problems: email **aymanafjal09@gmail.com** or WhatsApp **+8801816844231**.
 
 When reporting a problem, include your app version, what you clicked, and the text from the console log.
 
