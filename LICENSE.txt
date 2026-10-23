@@ -1,6 +1,6 @@
 Matlab Report Builder: End-User License Agreement (template)
 
-Copyright (c) Your Name. All rights reserved.
+Copyright (c) The Devil. All rights reserved.
 
 1. Grant. You may install and use the software on your own computers for your personal use.
    A paid license key unlocks the full version for you.
