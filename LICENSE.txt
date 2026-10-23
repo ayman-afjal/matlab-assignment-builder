@@ -1,0 +1,15 @@
+Matlab Report Builder: End-User License Agreement (template)
+
+Copyright (c) Your Name. All rights reserved.
+
+1. Grant. You may install and use the software on your own computers for your personal use.
+   A paid license key unlocks the full version for you.
+2. Restrictions. You may not sell, share, rent or publish the software or your license key, and may not
+   reverse engineer, modify or remove the licensing checks, except where the law allows it.
+3. The free trial may be used and shared in its unmodified form.
+4. No warranty. The software is provided "as is", without warranty of any kind. The author is not liable
+   for any loss or damage arising from its use. Always keep your original files.
+5. Third-party components (Python, Qt for Python / PySide6, python-docx, Pygments and others) remain under
+   their own licenses.
+
+NOTE: This is a simple template, not legal advice. Edit it to suit you, and consider having it reviewed.
